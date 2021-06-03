@@ -1,3 +1,3 @@
-# Srikanth_Chandar.github.io
+# Srikanth Chandar
 ## The second largest heading
 ###### The smallest heading
